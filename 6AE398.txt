@@ -18,6 +18,6 @@
         "BaseURL": "https://raw.githubusercontent.com/KajalMohite3112/Testing/refs/heads/main/"
     },
     "MQTT": {
-    "DATA": "/SHM/BOXDATA1"
+    "DATA": "/SHM/BOXDATA11"
     }
 }
