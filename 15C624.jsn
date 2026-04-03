@@ -21,7 +21,7 @@
     "DATA": "W/WD05/DATA"
     },
     "MQTTBACKUP" : {
-    "DATA" : "W/WDO5/BACKUP"
+    "BACKUP" : "W/WDO5/BACKUP"
     }
     
 }
