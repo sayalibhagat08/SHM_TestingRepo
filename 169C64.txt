@@ -1,0 +1,26 @@
+{
+    "Version": {
+        "V": "V0.2"
+    },
+    "Device": {
+        "Name": "ESP32_Device",
+        "ID": "WD02"
+    },
+    "Wifi": {
+        "SSID": "SM-0CD5-4-4G",
+        "Password": "05022026-4"
+    },
+    "Settings": {
+        "Interval_Min": 30,
+        "Log_Enable": true
+    },
+    "Github": {
+        "BaseURL": "https://raw.githubusercontent.com/KajalMohite3112/Testing/refs/heads/main/"
+    },
+    "MQTT": {
+    "DATA": "W/WD02/DATA"
+    },
+    "MQTTBACKUP":{
+    "BACKUP":"W/WDO2/BACKUP"
+    }    
+}
