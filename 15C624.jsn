@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.5"
+        "V": "V2.7"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -19,5 +19,9 @@
     },
     "MQTT": {
     "DATA": "W/WD05/DATA"
+    },
+    "MQTTBACKUP" : {
+    "DATA" : "W/WDO5/BACKUP"
     }
+    
 }
