@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.5"
+        "V": "V2.6"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -18,9 +18,9 @@
         "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
     "MQTT": {
-    "DATA": "W/WD01/DATA"
+        "DATA": "W/WD01/DATA"
     },
-    "MQTTBACKUP" : {
-    "BACKUP" : "W/WD01/BACKUP"
+    "MQTTBACKUP": {
+        "BACKUP": "W/WD01/BACKUP"
     }
 }
