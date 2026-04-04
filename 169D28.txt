@@ -22,4 +22,5 @@
     },
     "MQTTBACKUP" : {
     "BACKUP" : "W/WD01/BACKUP"
+    }
 }
