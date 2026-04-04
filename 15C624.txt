@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.11"
+        "V": "V2.13"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -20,10 +20,10 @@
     "MQTT": {
     "DATA": "W/WD05/DATA"
     },
-    "MQTTBACKUP" : {
-    "BACKUP" : "W/WDO5/BACKUP"
+    "MQTTBACKUP": {
+    "BACKUP": "W/WDO5/BACKUP"
     },
-    "SYSHB" : {
-    "HEARTBEAT" : "W/WDO5/HEARTBEAT"
+    "SYSHB": {
+    "HEARTBEAT": "W/WDO5/HEARTBEAT"
     }
 }
