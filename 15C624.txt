@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.14"
+        "V": "V2.15"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -27,6 +27,6 @@
     "HB": "W/WDO5/HEARTBEAT"
     },
     "OTA_URL": {
-    "OTABaseURL": "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"
+    "OTABaseURL": "https://raw.githubusercontent.com/amit-sectr/SHM/refs/heads/main/JSON/ota.json"
     }
 }
