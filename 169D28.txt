@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.6"
+        "V": "V2.7"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -22,5 +22,8 @@
     },
     "MQTTBACKUP": {
         "BACKUP": "W/WD01/BACKUP"
+    },
+     "SYSHB": {
+        "HB": "W/WD01/HEARTBEAT"
     }
 }
