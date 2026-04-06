@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.13"
+        "V": "V2.14"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -24,6 +24,9 @@
     "BACKUP": "W/WDO5/BACKUP"
     },
     "SYSHB": {
-    "HEARTBEAT": "W/WDO5/HEARTBEAT"
+    "HB": "W/WDO5/HEARTBEAT"
+    },
+    "OTA_URL": {
+    "OTABaseURL": "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"
     }
 }
