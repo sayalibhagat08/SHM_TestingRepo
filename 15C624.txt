@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.12"
+        "V": "V3.0"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -15,7 +15,7 @@
         "Log_Enable": true
     },
     "Github": {
-        "BaseURL": "https://raw.githubusercontent.com/KajalMohite3112/Testing/refs/heads/main/"
+        "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
     "MQTT": {
     "DATA": "W/WD05/DATA"
