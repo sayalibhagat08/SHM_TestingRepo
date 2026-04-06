@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V3.0"
+        "V": "V3.1"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -28,5 +28,8 @@
     },
     "OTA_URL": {
     "OTABaseURL": "https://raw.githubusercontent.com/amit-sectr/SHM/refs/heads/main/JSON/ota.json"
+    },
+    "MQTT_URL": {
+    "MQTTBaseURL": "mqtts://192.168.21.85:8883"
     }
 }
