@@ -17,14 +17,11 @@
     "Github": {
         "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
-  "MQTT": {
-    "URL": "mqtts://192.168.21.85:8883",
-    "DATA": "W/WD05/DATA",
-    "BACKUP": "W/WD05/BACKUP",
-    "OTA": "W/WD05/OTA"
-  }
-    },
-   "SYSBH": {
-    "HEARTBEAT": "W/WD05/HEARTBEAT"
-    }
+    "MQTT": {
+        "URL": "mqtts://192.168.21.85:8883",
+        "DATA": "W/WD05/DATA",
+        "BACKUP": "W/WD05/BACKUP",
+        "OTA": "W/WD05/OTA"
+        "HB": "W/WD05/HB"
+      }   
 }
