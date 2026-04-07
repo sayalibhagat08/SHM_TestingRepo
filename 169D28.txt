@@ -1,14 +1,14 @@
 {
     "Version": {
-        "V": "V3.6"
+        "V": "V3.7"
     },
     "Device": {
         "Name": "ESP32_Device",
         "ID": "WD01"
     },
     "Wifi": {
-        "SSID": "SM-0CD5-4-4G",
-        "Password": "05022026-4"
+        "SSID": "SM-0CA5-5-4G",
+        "Password": "05022026-5"
     },
     "Settings": {
         "Interval_Min": 30,
