@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V3.1"
+        "V": "V3.2"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -27,9 +27,9 @@
      },
     "MQTT": {
         "URL": "mqtts://192.168.21.85:8883",
-        "DATA": "W/WD05/DATA",
-        "BACKUP": "W/WD05/BACKUP",
-        "OTA": "W/WD05/OTA",
-        "HB": "W/WD05/HB"
+        "DATA": "W/WD01/DATA",
+        "BACKUP": "W/WD01/BACKUP",
+        "OTA": "W/WD01/OTA",
+        "HB": "W/WD01/HB"
       }  
 }
