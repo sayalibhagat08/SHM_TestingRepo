@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V3.2"
+        "V": "V2.14"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -17,23 +17,14 @@
     "Github": {
         "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
-    "MQTT": {
-        "DATA": "W/WD05/DATA"
+  "MQTT": {
+    "URL": "mqtts://192.168.21.85:8883",
+    "DATA": "W/WD05/DATA",
+    "BACKUP": "W/WD05/BACKUP",
+    "OTA": "W/WD05/OTA"
+  }
     },
-    "MQTTBACKUP": {
-        "BACKUP": "W/WDO5/BACKUP"
-    },
-    "SYSHB": {
-        "HB": "W/WDO5/HEARTBEAT"
-    },
-    "OTADATA": {
-    "OTA": {
-      "json_url": "https://raw.githubusercontent.com/yourname/yourrepo/main/ota.json",
-      "rollback_json": "https://raw.githubusercontent.com/yourname/yourrepo/main/rollback.json",
-      "rollback_firmware": "https://github.com/yourname/yourrepo/releases/download/%s/app.bin"
-        }
-      },
-    "MQTT_URL": {
-    "MQTTBaseURL": "mqtts://192.168.21.85:8883"
+   "SYSBH": {
+    "HEARTBEAT": "W/WD05/HEARTBEAT"
     }
 }
