@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.9"
+        "V": "V3.0"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -23,6 +23,14 @@
     "MQTTBACKUP": {
         "BACKUP": "W/WD01/BACKUP"
     },
+    "OTADATA": {
+        "OTA": {
+          "json_url": "https://raw.githubusercontent.com/yourname/yourrepo/main/ota.json",
+          "rollback_json": "https://raw.githubusercontent.com/yourname/yourrepo/main/rollback.json",
+          "rollback_firmware": "https://github.com/yourname/yourrepo/releases/download/%s/app.bin",
+          "schedule": "1532,1"
+        }
+     },
      "SYSHB": {
         "HB": "W/WD01/HEARTBEAT"
     }
