@@ -21,7 +21,7 @@
         "URL": "mqtts://192.168.21.85:8883",
         "DATA": "W/WD05/DATA",
         "BACKUP": "W/WD05/BACKUP",
-        "OTA": "W/WD05/OTA"
+        "OTA": "W/WD05/OTA",
         "HB": "W/WD05/HB"
       }   
 }
