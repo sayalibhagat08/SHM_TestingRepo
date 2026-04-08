@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V3.10"
+        "V": "V3.11"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -22,7 +22,7 @@
           "json_url": "https://raw.githubusercontent.com/amit-sectr/SHM/refs/heads/main/JSON/ota.json",
           "rollback_json": "https://raw.githubusercontent.com/Shreyakadam1/test-repo/refs/heads/main/rollback.json",
           "rollback_firmware": "https://github.com/Shreyakadam1/test-repo/releases/download/%s/app-template.bin",
-          "schedule": "1030,1"
+          "schedule": "1045,1"
         }
      },
     "MQTT": {
