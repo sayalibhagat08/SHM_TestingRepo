@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V3.10"
+        "V": "V3.11"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -8,8 +8,8 @@
     },
 
     "Wifi": {
-        "SSID": "SM-0CD5-4-4G",
-        "Password": "05022026-4"
+        "SSID": "SM-0CA5-5-4G",
+        "Password": "05022026-5"
     },
 
     "Settings": {
