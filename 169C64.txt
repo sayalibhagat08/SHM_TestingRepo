@@ -2,7 +2,6 @@
     "Version": {
         "V": "V3.4"
     },
-
     "Device": {
         "Name": "ESP32_Device",
         "ID": "WD02"
