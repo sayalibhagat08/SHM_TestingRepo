@@ -8,8 +8,8 @@
     },
 
     "Wifi": {
-        "SSID": "SM-0CD5-4-4G",
-        "Password": "05022026-4"
+        "SSID": "SC-W800-1-4G",
+        "Password": "04232026-1"
     },
 
     "Settings": {
